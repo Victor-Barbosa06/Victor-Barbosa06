@@ -9,6 +9,12 @@ Sistema de reserva de salas para os professores do Senac.
 ### [ChamadosSenac](https://github.com/Victor-Barbosa06/ChamadosSenac)
 Sistema de chamado para a realização da manutenção nos computadores do Senac.
 
+##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
+</picture>
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -46,7 +52,6 @@ Sistema de chamado para a realização da manutenção nos computadores do Senac
     <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   </a>
 </div>
-
 
 ## Sobre mim
 - 🎓 Técnico de infórmatica formado no Senac RS.
