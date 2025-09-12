@@ -2,14 +2,20 @@
   <h1 align="center">Oi, eu sou o Victor 👋</h1>
 </header>
 
-# Projetos em Destaque
-Para ver meu portfólio, clique [aqui](https://victorbarbosa-dev.github.io/Portfolio/)
+## Sobre mim
+- 🎓 Técnico de infórmatica formado no Senac RS.
+- 📚 Cursando Ciências da Computação, quinto período.
+- 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
+- 🌱 Atualmente utilizando HTML, CSS, JS, Bootstrap, PHP/CakePHP, Java e mais!
 
+# Projetos em Destaque
 ### [ReservasSenac](https://github.com/Victor-Barbosa06/ReservasSenac)
 Sistema de reserva de salas para os professores do Senac.
 
 ### [ChamadosSenac](https://github.com/Victor-Barbosa06/ChamadosSenac)
 Sistema de chamado para a realização da manutenção nos computadores do Senac.
+
+### Para ver mais projetos, clique [aqui](https://victorbarbosa-dev.github.io/Portfolio/).
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -47,12 +53,6 @@ Sistema de chamado para a realização da manutenção nos computadores do Senac
     <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   </a>
 </div>
-
-## Sobre mim
-- 🎓 Técnico de infórmatica formado no Senac RS.
-- 📚 Cursando Ciências da Computação, quinto período.
-- 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
-- 🌱 Atualmente utilizando HTML, CSS, JS, Bootstrap, PHP/CakePHP, Java e mais!
 
 ## Conecte-se Comigo
 <div>
