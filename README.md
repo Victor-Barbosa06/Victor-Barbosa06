@@ -2,7 +2,9 @@
   <h1 align="center">Oi, eu sou o Victor 👋</h1>
 </header>
 
-# [Projetos em Destaque](https://victorbarbosa-dev.github.io/Portfolio/)
+# Projetos em Destaque
+Para ver meu portfólio, clique [aqui](https://victorbarbosa-dev.github.io/Portfolio/)
+
 ### [ReservasSenac](https://github.com/Victor-Barbosa06/ReservasSenac)
 Sistema de reserva de salas para os professores do Senac.
 
