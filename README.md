@@ -8,7 +8,8 @@
 - 🔭 Melhorando enquanto estudo e faço projetos pessoais e dos cursos.
 - 🌱 Atualmente utilizando HTML, CSS, JS, Bootstrap, PHP/CakePHP, Java e mais!
 
-# Projetos em Destaque <br> #### Para ver mais projetos, clique [aqui](https://victorbarbosa-dev.github.io/Portfolio/).
+# Para ver meus projetos, clique [aqui](https://victorbarbosa-dev.github.io/Portfolio/).
+## Projetos em Destaque
 ### [ReservasSenac](https://github.com/Victor-Barbosa06/ReservasSenac)
 Sistema de reserva de salas para os professores do Senac.
 
